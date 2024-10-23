@@ -1,1 +1,2 @@
-# USP-test
+# USP-projekat
+upravljanje softverskim projektom
